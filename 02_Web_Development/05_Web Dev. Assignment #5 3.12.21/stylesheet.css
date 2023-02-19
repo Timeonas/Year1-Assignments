@@ -1,0 +1,76 @@
+body {
+    background-image: url(https://mcdn.wallpapersafari.com/medium/62/70/vmSyDZ.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    font-family: Arial,Verdana,sans-serif;
+    text-align: center;
+  }
+
+p {
+  color:black;
+  font-size:20px
+}
+
+h1 {
+color:blue;  
+font-style: italic;
+font-size:65px;
+}
+
+h2 {
+  color:black;
+  font-style: oblique;
+  font-size:30px;
+}
+
+h3 {
+  color:black;
+  font-style: italic;
+  text-decoration: underline;
+  font-size:25px;
+}
+
+b {
+color:blue;
+font-size: 31px;
+}
+
+ul {
+  margin: 50;
+  text-align: left;
+  font-size: 30px;
+  list-style-type:none;
+}
+
+.Logo{
+  position: absolute;
+  top: -20px;
+  left: 100px;
+  width: 300px;
+  height: 300px;
+}
+
+ .Footer {
+  position: absolute;
+  bottom: 0px;
+  left: 13px;
+  color: gray;
+  font-weight: bold;
+ }
+
+.Social {
+  position: absolute;
+  bottom: 60px;
+  right: 35px;
+  color: gray;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Icons {
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+  width: 250px;
+  height: 65px;
+}
