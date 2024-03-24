@@ -48,7 +48,7 @@ int ReadInDictionary() {
 	char line[200];
 	int i = 0;
 	size_t length;
-	fopen_s(&fptr, "C:\\Users\\burli\\OneDrive - National University of Ireland, Galway\\Desktop\\dictionary.txt", "r");
+	fopen_s(&fptr, "dictionary.txt", "r");
 	//If there is no error with the file pointer, find the length of the file
 	if (fptr != NULL) {
 		//While the pointer hasnt reached the end of the file, run the while loop till the end of the file is reached
